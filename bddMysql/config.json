@@ -1,0 +1,14 @@
+{
+    "host": "localhost",
+    "user": "root",
+    "port": 3307,
+    "password": "pa",
+    "database": "bdd",
+    "waitForConnections": true,
+    "connectionLimit": 10,
+    "maxIdle": 10,
+    "idleTimeout": 60000,
+    "queueLimit": 0,
+    "enableKeepAlive": true,
+    "keepAliveInitialDelay": 0
+}
