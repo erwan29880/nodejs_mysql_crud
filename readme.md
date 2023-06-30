@@ -1,8 +1,8 @@
-# Crud avec mongoDb et nodejs - express   
+# Crud avec mysql et nodejs - express   
 
 ## installation : 
 
-créer un dossier mongo  
+créer un dossier mysql
 
 Monter une base de données dans un containeur docker  
 
